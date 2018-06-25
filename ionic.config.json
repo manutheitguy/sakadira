@@ -1,0 +1,8 @@
+{
+  "name": "sakadira",
+  "app_id": "9fa6dfc1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
